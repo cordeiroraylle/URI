@@ -1,4 +1,4 @@
-while True:
+while (True):
 		try:
 			n = int(input())
 		except:
