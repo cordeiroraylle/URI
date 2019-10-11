@@ -1,4 +1,5 @@
 A = float(input())
 B = float(input())
-media = (A*2 + B*3 + C*5)/11
-print("MEDIA = {:.5f}".format(media))
+C = float(input())
+media = (A*2 + B*3 + C*5)/10
+print("MEDIA = {:.1f}".format(media))
